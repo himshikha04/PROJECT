@@ -1,0 +1,9 @@
+.container{
+    background-image: url("./image/newsimagebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    padding-bottom: 20px;
+    color:black;
+}
